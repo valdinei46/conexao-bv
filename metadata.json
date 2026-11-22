@@ -1,0 +1,6 @@
+{
+  "name": "Conexão BV",
+  "description": "Plataforma de chat para amizades e namoro em Boa Vista, Roraima, com grupos privados, fotos com filtros, enquetes, ChatCoins, mensagens criptografadas e integração com Google Chat.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
